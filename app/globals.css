@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  a{
+    text-decoration: none;
+    color: black;
+  }
+}
+button{
+  cursor: pointer;
+}
+.btn{
+  a{
+    color: #fff;
+  }
+}
+
+.searchbtn{
+  width: 100%;
+  height: 80%;
+}
+
+.noDecoration{
+  text-decoration: none;
+  color: blue;
+}
+.noPadding{
+  padding: 0;
+}
+.closeBtn{
+  width: 40px;
+  height: 40px;
+}
+.textArea{
+  padding: 15px;
+  height: 150px !important;
+  width: 30%;
+}
+.priceInput{
+  width: 30%;
+}
+.bgwhite{
+  background-color: #fff !important;
+}
